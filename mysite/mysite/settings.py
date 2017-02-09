@@ -25,7 +25,7 @@ SECRET_KEY = 'tmb^@dwz!2u7e_z^9@a@h_lg1-o*m=(fznv(*#kgzy+ix0=idy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['valentingut.pythonanywhere.com']
 
 
 # Application definition
